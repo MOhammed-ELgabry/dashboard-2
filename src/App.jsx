@@ -1,6 +1,6 @@
 import React from 'react'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
-import MainHeader from './mainHeader'
+import MainHeader from './MainHeader'
 import DashBoard from './DashBoard'
 import Api from './Api'
 import HomePage from './HomePage'
