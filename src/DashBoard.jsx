@@ -33,6 +33,7 @@ const openEditModal=(index)=>{
   priceInput.current.value=oldData.price
   qtyInput.current.value=oldData.qty
 }
+
 const saveData=()=>{
   let newData = {
     name:nameInput.current.value,
